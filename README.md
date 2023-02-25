@@ -8,6 +8,6 @@ To avoid problems with names simular to issues in Netflix project i will use [BE
 
 ## Feature List
 
-- [ ] Oath2 Auth
+- [ ] Oath2 Auth / [MojoAuth](https://mojoauth.com/)
 
 - [ ] Bem naming convention
